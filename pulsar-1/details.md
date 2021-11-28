@@ -16,7 +16,7 @@ Peer nodes:
 `badc882d93809ce2dc06ec0ca1c2873d05a10ce3@144.202.126.98:26656`
 `89013e0fa43129a1025d571ac6f82bd01b462590@104.217.251.74:26656`
 
-REST port: 1317
-RPC port: 26657
+REST port: http://testnet.securesecrets.org:1317/
+RPC port: http://testnet.securesecrets.org:26657/
 
 Docker Support : TBD
