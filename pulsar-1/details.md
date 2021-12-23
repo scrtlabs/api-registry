@@ -1,3 +1,5 @@
+# (DEPRECATED - PLEASE USE PULSAR-2)
+
 ## Version 1.2.2 Pulsar-1!
 
 Binaries and executables: https://github.com/scrtlabs/SecretNetwork/releases/tag/v1.2.2
