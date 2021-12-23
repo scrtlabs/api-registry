@@ -1,3 +1,5 @@
+# DEPRECATED - PLEASE USE PULSAR-2
+
 ## Version 1.2.0-beta2 has been released - Supernova upgrade testnet v2!
 
 Binaries and executables: https://github.com/scrtlabs/SecretNetwork/releases/tag/v1.2.0-beta2
