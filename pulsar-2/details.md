@@ -1,4 +1,4 @@
-## Version 1.2.2 Pulsar-1!
+## Version 1.2.2 Pulsar-2!
 
 Binaries and executables: https://github.com/scrtlabs/SecretNetwork/releases/tag/v1.2.2
 Use the testnet binary
