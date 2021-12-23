@@ -18,6 +18,6 @@ Peer nodes:
 
 REST port: http://testnet.securesecrets.org:1317/
 
-RPC port: http://testnet.securesecrets.org:26657/
+RPC port: https://api.pulsar.griptapejs.com/
 
 Docker Support : TBD
