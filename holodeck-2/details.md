@@ -1,3 +1,5 @@
+# DEPRECATED - PLEASE USE PULSAR-2
+
 # Holodeck-2 Testnet powered by Chain Of Secrets
 
 Binaries and executables: https://github.com/chainofsecrets/SecretNetwork/releases/tag/v1.0.0
