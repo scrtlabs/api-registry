@@ -1,0 +1,23 @@
+{
+  "deprecated": true,
+  "id": "pulsar-1",
+  "release": "https://github.com/scrtlabs/SecretNetwork/releases/tag/v1.2.2",
+  "explorers": [
+    "https://secretnodes.com/secret/chains/pulsar-1"
+  ],
+  "faucets": [
+    "https://faucet.secrettestnet.io"
+  ],
+  "restEndpoints": [
+    "http://testnet.securesecrets.org:1317/"
+  ],
+  "rpcEndpoints": [
+    "http://testnet.securesecrets.org:26657/"
+  ],
+  "peers": [
+    "078d185f8442c85f2a85cf33dd69ba6e099285d8@52.190.249.47:26656",
+    "6f718f97a040588b17540aa5f9705aadb5d20168@185.107.80.166:26656",
+    "badc882d93809ce2dc06ec0ca1c2873d05a10ce3@144.202.126.98:26656",
+    "89013e0fa43129a1025d571ac6f82bd01b462590@104.217.251.74:26656"
+  ]
+}
