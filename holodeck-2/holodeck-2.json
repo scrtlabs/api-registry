@@ -1,0 +1,20 @@
+{
+  "deprecated": true,
+  "id": "holodeck-2",
+  "release": "https://github.com/chainofsecrets/SecretNetwork/releases/tag/v1.0.0",
+  "explorers": [
+    "https://secretnodes.com/secret/chains/holodeck-2"
+  ],
+  "faucets": [
+    "https://faucet.secrettestnet.io"
+  ],
+  "restEndpoints": [
+    "https://chainofsecrets.secrettestnet.io/"
+  ],
+  "rpcEndpoints": [
+    "https://chainofsecrets.secrettestnet.io:26667/"
+  ],
+  "peers": [
+    "5374df116ac3133168999b8bfa8ccaa6d1a34fbf@chainofsecrets.secrettestnet.io:26656"
+  ]
+}
