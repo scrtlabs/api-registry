@@ -16,10 +16,11 @@ Peer nodes:
 - `a941999e72f4726d276ef055a09cb8bedf8e7a9a@45.35.77.30:26656`
 - `f95ba3da4a9eec559397f4b47b1539e24af6904c@52.190.249.47:26656`
 
-REST port: http://testnet.securesecrets.org:1317/ or https://api.pulsar.griptapejs.com/
-
-RPC port: https://rpc.pulsar.griptapejs.com/
-
-gRPC-web: http://rpc.pulsar.griptapejs.com:9091/ 
+APIs:
+- LCD: http://testnet.securesecrets.org:1317
+- LCD: https://api.pulsar.griptapejs.com
+- RPC: https://rpc.pulsar.griptapejs.com
+- Websocket: wss://rpc.pulsar.griptapejs.com/websocket
+- gRPC-web: http://rpc.pulsar.griptapejs.com:9091 
 
 Docker Support : TBD
