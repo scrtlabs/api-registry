@@ -1,6 +1,6 @@
-## Version 1.2.2 Pulsar-2!
+## pulsar-2
 
-Binaries and executables: https://github.com/scrtlabs/SecretNetwork/releases/tag/v1.2.2
+Binaries and executables: https://github.com/scrtlabs/SecretNetwork/releases/tag/v1.3.1
 Use the testnet binary
 
 Explorer: https://secretnodes.com/secret/chains/pulsar-2
@@ -19,8 +19,10 @@ Peer nodes:
 APIs:
 - LCD: http://testnet.securesecrets.org:1317
 - LCD: https://api.pulsar.griptapejs.com
+- LCD: https://testnet-api.roninventures.io/
 - RPC: https://rpc.pulsar.griptapejs.com
+- RPC: https://testnet-rpc.roninventures.io/
 - Websocket: wss://rpc.pulsar.griptapejs.com/websocket
 - gRPC-web: http://rpc.pulsar.griptapejs.com:9091 
+- gRPC-web: https://testnet-web-rpc.roninventures.io/
 
-Docker Support : TBD
