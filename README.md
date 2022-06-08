@@ -8,6 +8,7 @@
 - [pulsar-2 testnet](#pulsar-2-testnet)
   - [Binaries](#binaries-1)
   - [Explorers](#explorers-1)
+  - [Faucet](#faucet)
   - [API endpoints](#api-endpoints-1)
   - [Peer nodes](#peer-nodes)
 - [Usage examples](#usage-examples)
@@ -59,6 +60,10 @@
 ## Explorers
 
 - https://secretnodes.com/secret/chains/pulsar-2
+
+## Faucet
+
+- https://faucet.secrettestnet.io
 
 ## API endpoints
 
