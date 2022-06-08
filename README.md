@@ -1,4 +1,4 @@
-<h1>Secret Netowork APIs Registry</h1>
+<h1>Secret Netowork API Registry</h1>
 
 - [secret-4 mainnet](#secret-4-mainnet)
   - [Binaries](#binaries)
