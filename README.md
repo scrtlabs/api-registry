@@ -61,11 +61,11 @@
 ## API endpoints
 
 | Type      | API                                         | Courtesy of                                                                                                                                       |
-| --------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| RPC       | `https://rpc.pulsar.griptapejs.com`         | [🛹 Stake or Die! 🐝🐝🐝](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fy2s7er0c6uxc8hmnqfgukvkf7xh22s4yr6jqe)    |     |
+| --------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RPC       | `https://rpc.pulsar.griptapejs.com`         | [🛹 Stake or Die! 🐝🐝🐝](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fy2s7er0c6uxc8hmnqfgukvkf7xh22s4yr6jqe)    |
 | RPC       | `https://testnet-rpc.roninventures.io`      | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
-| Websocket | `wss://rpc.pulsar.griptapejs.com/websocket` | [🛹 Stake or Die! 🐝🐝🐝](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fy2s7er0c6uxc8hmnqfgukvkf7xh22s4yr6jqe)    |     |
-| gRPC-web  | `http://rpc.pulsar.griptapejs.com:9091`     | [🛹 Stake or Die! 🐝🐝🐝](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fy2s7er0c6uxc8hmnqfgukvkf7xh22s4yr6jqe)    |     |
+| Websocket | `wss://rpc.pulsar.griptapejs.com/websocket` | [🛹 Stake or Die! 🐝🐝🐝](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fy2s7er0c6uxc8hmnqfgukvkf7xh22s4yr6jqe)    |
+| gRPC-web  | `http://rpc.pulsar.griptapejs.com:9091`     | [🛹 Stake or Die! 🐝🐝🐝](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fy2s7er0c6uxc8hmnqfgukvkf7xh22s4yr6jqe)    |
 | gRPC-web  | `https://testnet-web-rpc.roninventures.io`  | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
 | LCD       | `http://testnet.securesecrets.org:1317`     | [Trivium \| Trivium.Network](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1ahawe276d250zpxt0xgpfg63ymmu63a0svuvgw) |
 | LCD       | `https://api.pulsar.griptapejs.com`         | [🛹 Stake or Die! 🐝🐝🐝](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fy2s7er0c6uxc8hmnqfgukvkf7xh22s4yr6jqe)    |
@@ -76,7 +76,7 @@
 - `7a421a6f5f1618f7b6fdfbe4854985746f85d263@108.62.104.102:26656`
 - `a72e376dca664bac55e8ce55a2e972a8ae2c995e@144.202.126.98:26656`
 - `a941999e72f4726d276ef055a09cb8bedf8e7a9a@45.35.77.30:26656`
-- `f95ba3da4a9eec559397f4b47b1539e24af6904c@52.190.249.47:26656 `
+- `f95ba3da4a9eec559397f4b47b1539e24af6904c@52.190.249.47:26656`
 
 # Usage examples
 
@@ -84,15 +84,15 @@
 
 With `secretcli` (replace `"$URL"`):
 
-```bash
-secretcli config node "$URL"
-secretcli config chain-id secret-4 # or pulsar-2
+```console
+$ secretcli config node "$URL"
+$ secretcli config chain-id secret-4 # or pulsar-2
 ```
 
 Or:
 
-```bash
-secretcli status --node "$URL" --chain-id secret-4 # or --chain-id pulsar-2
+```console
+$ secretcli status --node "$URL" --chain-id secret-4 # or --chain-id pulsar-2
 ```
 
 ## gRPC-web
@@ -157,8 +157,8 @@ const secretJS = new SigningCosmWasmClient(
 
 Usage example:
 
-```bash
-perl -i -pe 's/^seeds =.*/seeds = "${URL_1},${URL_2},${URL_3}"/' ~/.secretd/config/config.toml
+```console
+$ perl -i -pe 's/^seeds =.*/seeds = "${URL_1},${URL_2},${URL_3}"/' ~/.secretd/config/config.toml
 ```
 
 Note that when you initialize a node with `secretd init --chain-id secret-4` these seeds are automatically populated into `~/.secretd/config/config.toml`.
@@ -167,6 +167,6 @@ Note that when you initialize a node with `secretd init --chain-id secret-4` the
 
 Usage example:
 
-```bash
-perl -i -pe 's/^persistent_peers =.*/persistent_peers = "${URL_1},${URL_2},${URL_3}"/' ~/.secretd/config/config.toml
+```console
+$ perl -i -pe 's/^persistent_peers =.*/persistent_peers = "${URL_1},${URL_2},${URL_3}"/' ~/.secretd/config/config.toml
 ```
