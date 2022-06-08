@@ -1,3 +1,5 @@
+Secret Netowork APIs Registry
+
 - [secret-4 mainnet](#secret-4-mainnet)
   - [Binaries](#binaries)
   - [Explorers](#explorers)
