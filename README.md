@@ -35,12 +35,14 @@
 
 | Type     | API                                                 | Courtesy of                                                                                                                                       |
 | -------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RPC      | `https://secret.rpc.consensus.one`        | [Consensus One](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1sa8av4qw3xerr58kwvnm8wvd87zgp36mv6cnyg) |
 | RPC      | `https://secret-4.api.trivium.network:26657`        | [Trivium \| Trivium.Network](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1ahawe276d250zpxt0xgpfg63ymmu63a0svuvgw) |
 | RPC      | `https://rpc.roninventures.io`                      | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
 | RPC      | `https://scrt-rpc.blockpane.com` (archive node)     | [[block pane]](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1tmtcu980raqvypdf0dd6hsgh6qcm7ex7l29u58)               |
 | gRPC-web | `https://secret-4.api.trivium.network:9091`         | [Trivium \| Trivium.Network](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1ahawe276d250zpxt0xgpfg63ymmu63a0svuvgw) |
 | gRPC-web | `https://web-rpc.roninventures.io`                  | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
 | gRPC-web | `http://scrt-rpc.blockpane.com:9091` (archive node) | [[block pane]](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1tmtcu980raqvypdf0dd6hsgh6qcm7ex7l29u58)               |
+| LCD      | `https://secret.api.consensus.one`         | [Consensus One](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1sa8av4qw3xerr58kwvnm8wvd87zgp36mv6cnyg) |
 | LCD      | `https://secret-4.api.trivium.network:1317`         | [Trivium \| Trivium.Network](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1ahawe276d250zpxt0xgpfg63ymmu63a0svuvgw) |
 | LCD      | `https://api.roninventures.io`                      | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
 | LCD      | `https://scrt-lcd.blockpane.com` (archive node)     | [[block pane]](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1tmtcu980raqvypdf0dd6hsgh6qcm7ex7l29u58)               |
