@@ -69,13 +69,9 @@
 
 | Type      | API                                         | Courtesy of                                                                                                                                       |
 | --------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| RPC       | `https://rpc.pulsar.griptapejs.com`         | [🛹 Stake or Die! 🐝🐝🐝](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fy2s7er0c6uxc8hmnqfgukvkf7xh22s4yr6jqe)    |
 | RPC       | `https://testnet-rpc.roninventures.io`      | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
-| Websocket | `wss://rpc.pulsar.griptapejs.com/websocket` | [🛹 Stake or Die! 🐝🐝🐝](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fy2s7er0c6uxc8hmnqfgukvkf7xh22s4yr6jqe)    |
-| gRPC-web  | `http://rpc.pulsar.griptapejs.com:9091`     | [🛹 Stake or Die! 🐝🐝🐝](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fy2s7er0c6uxc8hmnqfgukvkf7xh22s4yr6jqe)    |
 | gRPC-web  | `https://testnet-web-rpc.roninventures.io`  | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
 | LCD       | `http://testnet.securesecrets.org:1317`     | [Trivium \| Trivium.Network](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1ahawe276d250zpxt0xgpfg63ymmu63a0svuvgw) |
-| LCD       | `https://api.pulsar.griptapejs.com`         | [🛹 Stake or Die! 🐝🐝🐝](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fy2s7er0c6uxc8hmnqfgukvkf7xh22s4yr6jqe)    |
 | LCD       | `https://testnet-api.roninventures.io`      | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
 
 ## Peer nodes
