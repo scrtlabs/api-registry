@@ -70,13 +70,16 @@
 | Type      | API                                         | Courtesy of                                                                                                                                       |
 | --------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | RPC       | `https://rpc.pulsar.griptapejs.com`         | [🛹 Stake or Die! 🐝🐝🐝](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fy2s7er0c6uxc8hmnqfgukvkf7xh22s4yr6jqe)    |
+| RPC       | `https://rpc.pulsar.testnet.com`         | SCRT Testnet Committee |
 | RPC       | `https://testnet-rpc.roninventures.io`      | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
 | Websocket | `wss://rpc.pulsar.griptapejs.com/websocket` | [🛹 Stake or Die! 🐝🐝🐝](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fy2s7er0c6uxc8hmnqfgukvkf7xh22s4yr6jqe)    |
 | gRPC-web  | `http://rpc.pulsar.griptapejs.com:9091`     | [🛹 Stake or Die! 🐝🐝🐝](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fy2s7er0c6uxc8hmnqfgukvkf7xh22s4yr6jqe)    |
 | gRPC-web  | `https://testnet-web-rpc.roninventures.io`  | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
+| gRPC-web  | `http://rpc.pulsar.testnet.com`     | Secret Testnet Committee |
 | LCD       | `http://testnet.securesecrets.org:1317`     | [Trivium \| Trivium.Network](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1ahawe276d250zpxt0xgpfg63ymmu63a0svuvgw) |
 | LCD       | `https://api.pulsar.griptapejs.com`         | [🛹 Stake or Die! 🐝🐝🐝](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fy2s7er0c6uxc8hmnqfgukvkf7xh22s4yr6jqe)    |
 | LCD       | `https://testnet-api.roninventures.io`      | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
+| LCD       | `https://api.pulsar.scrttestnet.com`      | SCRT Testnet Committee |
 
 ## Peer nodes
 
@@ -84,6 +87,10 @@
 - `a72e376dca664bac55e8ce55a2e972a8ae2c995e@144.202.126.98:26656`
 - `a941999e72f4726d276ef055a09cb8bedf8e7a9a@45.35.77.30:26656`
 - `f95ba3da4a9eec559397f4b47b1539e24af6904c@52.190.249.47:26656`
+- `cd2f8266380c6587989f62308434d679928622ac@178.162.151.73:26656`
+- `6cf03ad11825d71b4c03e9c83b4cb65f29f63072@178.162.151.71:26656`
+- `29bb32d07d3e749f24226653a447f43e69502a1a@212.7.211.39:26656`
+
 
 # Usage examples
 
