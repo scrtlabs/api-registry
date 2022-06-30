@@ -37,13 +37,15 @@
 | -------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | RPC      | `https://secret-4.api.trivium.network:26657`        | [Trivium \| Trivium.Network](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1ahawe276d250zpxt0xgpfg63ymmu63a0svuvgw) |
 | RPC      | `https://rpc.roninventures.io`                      | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
-| RPC      | `https://scrt-rpc.blockpane.com` (archive node)     | [[ block pane ]](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1tmtcu980raqvypdf0dd6hsgh6qcm7ex7l29u58)               |
+| RPC      | `https://scrt-rpc.blockpane.com` (archive node)     | [[block pane]](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1tmtcu980raqvypdf0dd6hsgh6qcm7ex7l29u58)               |
+| RPC      | `https://secretnetwork-rpc.stakely.io`              | [Stakely.io](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1vzkdmu0sa8gaj686jh5all7hpmmsp8x87vyz8z)                 |
 | gRPC-web | `https://secret-4.api.trivium.network:9091`         | [Trivium \| Trivium.Network](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1ahawe276d250zpxt0xgpfg63ymmu63a0svuvgw) |
 | gRPC-web | `https://web-rpc.roninventures.io`                  | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
-| gRPC-web | `http://scrt-rpc.blockpane.com:9091` (archive node) | [[ block pane ]](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1tmtcu980raqvypdf0dd6hsgh6qcm7ex7l29u58)               |
+| gRPC-web | `http://scrt-rpc.blockpane.com:9091` (archive node) | [[block pane]](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1tmtcu980raqvypdf0dd6hsgh6qcm7ex7l29u58)               |
 | LCD      | `https://secret-4.api.trivium.network:1317`         | [Trivium \| Trivium.Network](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1ahawe276d250zpxt0xgpfg63ymmu63a0svuvgw) |
 | LCD      | `https://api.roninventures.io`                      | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
-| LCD      | `https://scrt-lcd.blockpane.com` (archive node)     | [[ block pane ]](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1tmtcu980raqvypdf0dd6hsgh6qcm7ex7l29u58)               |
+| LCD      | `https://scrt-lcd.blockpane.com` (archive node)     | [[block pane]](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1tmtcu980raqvypdf0dd6hsgh6qcm7ex7l29u58)               |
+| LCD      | `https://secretnetwork-lcd.stakely.io`              | [Stakely.io](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1vzkdmu0sa8gaj686jh5all7hpmmsp8x87vyz8z)                 |
 
 ## Seed nodes
 
@@ -67,18 +69,18 @@
 
 ## API endpoints
 
-| Type      | API                                         | Courtesy of                                                                                                                                       |
-| --------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| RPC       | `https://rpc.pulsar.testnet.com`         | SCRT Testnet Committee |
-| RPC       | `https://testnet-rpc.roninventures.io`      | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
-| RPC       | `https://rpc.testnet.secretsaturn.net`      | [🪐 𝕊ecret 𝕊aturn](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1q0rth4fu4svxnw63vjd7w74nadzsdp0fmkhj3d)       |
-| gRPC-web  | `https://testnet-web-rpc.roninventures.io`  | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
-| gRPC-web  | `https://grpc.testnet.secretsaturn.net`      | [🪐 𝕊ecret 𝕊aturn](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1q0rth4fu4svxnw63vjd7w74nadzsdp0fmkhj3d)             |
-| gRPC-web       | `https://grpc.pulsar.scrttestnet.com`      | SCRT Testnet Committee |
-| LCD       | `http://testnet.securesecrets.org:1317`     | [Trivium \| Trivium.Network](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1ahawe276d250zpxt0xgpfg63ymmu63a0svuvgw) |
-| LCD       | `https://testnet-api.roninventures.io`      | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
-| LCD       | `https://lcd.testnet.secretsaturn.net`      | [🪐 𝕊ecret 𝕊aturn](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1q0rth4fu4svxnw63vjd7w74nadzsdp0fmkhj3d)             |
-| LCD       | `https://api.pulsar.scrttestnet.com`      | SCRT Testnet Committee |
+| Type     | API                                        | Courtesy of                                                                                                                                       |
+| -------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RPC      | `https://rpc.pulsar.testnet.com`           | SCRT Testnet Committee                                                                                                                            |
+| RPC      | `https://testnet-rpc.roninventures.io`     | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
+| RPC      | `https://rpc.testnet.secretsaturn.net`     | [🪐 𝕊ecret 𝕊aturn](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1q0rth4fu4svxnw63vjd7w74nadzsdp0fmkhj3d)           |
+| gRPC-web | `https://testnet-web-rpc.roninventures.io` | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
+| gRPC-web | `https://grpc.testnet.secretsaturn.net`    | [🪐 𝕊ecret 𝕊aturn](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1q0rth4fu4svxnw63vjd7w74nadzsdp0fmkhj3d)           |
+| gRPC-web | `https://grpc.pulsar.scrttestnet.com`      | SCRT Testnet Committee                                                                                                                            |
+| LCD      | `http://testnet.securesecrets.org:1317`    | [Trivium \| Trivium.Network](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1ahawe276d250zpxt0xgpfg63ymmu63a0svuvgw) |
+| LCD      | `https://testnet-api.roninventures.io`     | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
+| LCD      | `https://lcd.testnet.secretsaturn.net`     | [🪐 𝕊ecret 𝕊aturn](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1q0rth4fu4svxnw63vjd7w74nadzsdp0fmkhj3d)           |
+| LCD      | `https://api.pulsar.scrttestnet.com`       | SCRT Testnet Committee                                                                                                                            |
 
 ## Peer nodes
 
@@ -89,7 +91,6 @@
 - `cd2f8266380c6587989f62308434d679928622ac@178.162.151.73:26656`
 - `6cf03ad11825d71b4c03e9c83b4cb65f29f63072@178.162.151.71:26656`
 - `29bb32d07d3e749f24226653a447f43e69502a1a@212.7.211.39:26656`
-
 
 # Usage examples
 
