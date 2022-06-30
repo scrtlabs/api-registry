@@ -76,9 +76,9 @@
 
 | Type     | API                                        | Courtesy of                                                                                                                                       |
 | -------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| RPC      | `https://rpc.pulsar.testnet.com`           | SCRT Testnet Committee                                                                                                                            |
 | RPC      | `https://testnet-rpc.roninventures.io`     | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
 | RPC      | `https://rpc.testnet.secretsaturn.net`     | [🪐 𝕊ecret 𝕊aturn](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1q0rth4fu4svxnw63vjd7w74nadzsdp0fmkhj3d)           |
+| RPC      | `https://rpc.pulsar.testnet.com`           | SCRT Testnet Committee                                                                                                                            |
 | gRPC-web | `https://testnet-web-rpc.roninventures.io` | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
 | gRPC-web | `https://grpc.testnet.secretsaturn.net`    | [🪐 𝕊ecret 𝕊aturn](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1q0rth4fu4svxnw63vjd7w74nadzsdp0fmkhj3d)           |
 | gRPC-web | `https://grpc.pulsar.scrttestnet.com`      | SCRT Testnet Committee                                                                                                                            |
