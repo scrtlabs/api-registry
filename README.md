@@ -39,13 +39,16 @@
 | RPC      | `https://rpc.roninventures.io`                      | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
 | RPC      | `https://scrt-rpc.blockpane.com` (archive node)     | [[block pane]](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1tmtcu980raqvypdf0dd6hsgh6qcm7ex7l29u58)               |
 | RPC      | `https://secretnetwork-rpc.stakely.io`              | [Stakely.io](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1vzkdmu0sa8gaj686jh5all7hpmmsp8x87vyz8z)                 |
+| RPC      | `https://rpc.secret.forbole.com/`                   | [Forbole](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1kvp570cd6zvzh8ffrhz7lmytt6v6u2gxz8tl0g)                    |
 | gRPC-web | `https://secret-4.api.trivium.network:9091`         | [Trivium \| Trivium.Network](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1ahawe276d250zpxt0xgpfg63ymmu63a0svuvgw) |
 | gRPC-web | `https://web-rpc.roninventures.io`                  | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
 | gRPC-web | `http://scrt-rpc.blockpane.com:9091` (archive node) | [[block pane]](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1tmtcu980raqvypdf0dd6hsgh6qcm7ex7l29u58)               |
+| gRPC     | `https://grpc.secret.forbole.com/`                  | [Forbole](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1kvp570cd6zvzh8ffrhz7lmytt6v6u2gxz8tl0g)                    |
 | LCD      | `https://secret-4.api.trivium.network:1317`         | [Trivium \| Trivium.Network](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1ahawe276d250zpxt0xgpfg63ymmu63a0svuvgw) |
 | LCD      | `https://api.roninventures.io`                      | [Ronin Ventures](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1fpf4rt42pr34ccef4wwuw4ljpm4flath8cwfgh)             |
 | LCD      | `https://scrt-lcd.blockpane.com` (archive node)     | [[block pane]](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1tmtcu980raqvypdf0dd6hsgh6qcm7ex7l29u58)               |
 | LCD      | `https://secretnetwork-lcd.stakely.io`              | [Stakely.io](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1vzkdmu0sa8gaj686jh5all7hpmmsp8x87vyz8z)                 |
+| LCD      | `https://api.secret.forbole.com/`                   | [Forbole](https://wallet.keplr.app/#/secret/stake?modal=detail&validator=secretvaloper1kvp570cd6zvzh8ffrhz7lmytt6v6u2gxz8tl0g)                    |
 
 ## Seed nodes
 
