@@ -63,7 +63,8 @@
 
 ## Explorers
 
-- https://secretnodes.com/secret/chains/pulsar-2
+- https://secretnodes.com/pulsar
+- https://testnet.ping.pub/secret
 
 ## Faucets
 
