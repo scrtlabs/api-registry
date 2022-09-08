@@ -22,7 +22,7 @@
 
 ## Binaries
 
-- https://github.com/scrtlabs/SecretNetwork/releases/tag/v1.3.1
+- https://github.com/scrtlabs/SecretNetwork/releases/v1.4.1-beta-2
 
 ## Explorers
 
